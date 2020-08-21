@@ -13,7 +13,7 @@ Nowadays my work involves considerable technical skills, but rarely I have the o
 
 My repositories on Github involve some projects developed in the context of my studies, others are tools that can make my life easier at work or outside of it. 
 
-Recently I started learning Python, which in comparision to Java (the first language I learned), is absolutely wonderful :heart_eyes:
+Recently I started learning Python, which compared to Java (the first language I learned), is absolutely wonderful :heart_eyes:
 
 📫 Follow me: [LinkedIn](https://www.linkedin.com/in/silviaandresbalsera/) and [Twitter](https://twitter.com/sandresbal)
 
