@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**sandresbal/sandresbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am Silvia Andrés, current COO at [Fractal Media](https://fractalmedia.es).
 
