@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Silvia Andrés, current COO at [Fractal Media](https://fractalmedia.es).
+I am Silvia Andrés, current Customer Success Engineer at [Conviva](https://www.conviva.com/).
 
 Although my initial education can seem pretty far removed from the programming world (I have a Ph.D in Philosophy), I was specialized in Language, Logic and Science studies, which allowed me to get in close contact with areas such as artificial intelligence or natural language processing questions.
 
